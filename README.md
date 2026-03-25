@@ -33,7 +33,7 @@ at BNP Paribas Cardif.
 > SCOR shows the highest tail risk at -5.91% (VaR 99%), 
 > consistent with its exposure to catastrophic reinsurance events.
 
-## What This Means
+## What Does This Mean
 - **VaR 95% BNP = -2.79%** → 95% of the time, 
 BNP does not lose more than 2.79% in a single day
 - **VaR 99% SCOR = -5.91%** → in the worst 1% of days, 
@@ -49,6 +49,4 @@ yfinance | pandas | numpy | matplotlib
 ```
 
 ## Author
-Raniya Sirat — Financial Analyst @ BNP Paribas Cardif  
-CFA Level I Candidate | MSc Sustainable Financial Management  
-[LinkedIn](https://www.linkedin.com/in/raniya-sirat)
+Raniya Sirat 
