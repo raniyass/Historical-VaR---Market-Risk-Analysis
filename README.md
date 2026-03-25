@@ -39,6 +39,9 @@ BNP does not lose more than 2.79% in a single day
 - **VaR 99% SCOR = -5.91%** → in the worst 1% of days, 
 SCOR can lose more than 5.91%
 
+## Visualization
+![VaR Distribution](Graphic_results_VaR.png)
+
 ## Files
 - `VaR_Historique.ipynb` — main notebook
 - `VaR_Historique.png` — distribution charts with VaR thresholds
